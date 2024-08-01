@@ -1,2 +1,4 @@
 # first_hub
-this is my first Github repository in our life
+this is my first Github repository in our life.
+<br>
+Author - Shayan Israr
